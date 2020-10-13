@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
+    <string name="welcome">Welcome</string>
+    <string name="hint_name">Name</string>
+    <string name="start">Start</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulation">Hey, Congratulations!</string>
+    <string name="go_to_next_question">Go To Next Question</string>
+    <string name="image">image</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="what_scientist">what scientist?</string>
+</resources>

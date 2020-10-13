@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9013fe</color>
+    <color name="colorPrimaryDark">#6a1b9a</color>
+    <color name="colorAccent">#9013fe</color>
+    <color name="vulcan">#363A43</color>
+    <color name="hint_color">#7A8089</color>
+</resources>
